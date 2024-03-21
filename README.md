@@ -21,17 +21,18 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://yasanga.me">
-    <img src="./src/assets/AIArticle1.png" alt="Logo" width="1096" height="910"> <br>
-     <img src="./src/assets/AIArticle2.png" alt="Logo" width="1076" height="905">
-  </a>
 
   <h3 align="center">AI Article Summarizer</h3>
 
   <p align="center">
     An AI-powered article summarizer designed to condense lengthy texts into concise and informative summaries. Leveraging natural language processing algorithms, it extracts key points and central ideas, providing users with a quick overview of the content without the need to read through the entire article.
     <br />
+
+<div align="center">
+  <a href="https://yasanga.me">
+    <img src="./src/assets/AIArticle1.png" alt="Logo" width="1096" height="910"> <br>
+     <img src="./src/assets/AIArticle2.png" alt="Logo" width="1076" height="905">
+  </a>
 
   </p>
 </div>
