@@ -23,8 +23,8 @@
 <br />
 <div align="center">
   <a href="https://yasanga.me">
-    <img src="./src/assets/AIArticle1.png" alt="Logo" width="80" height="80">
-     <img src="./src/assets/AIArticle2.png" alt="Logo" width="80" height="80">
+    <img src="./src/assets/AIArticle1.png" alt="Logo" width="300" height="200"> <br>
+     <img src="./src/assets/AIArticle2.png" alt="Logo" width="300" height="200">
   </a>
 
   <h3 align="center">AI Article Summarizer</h3>
